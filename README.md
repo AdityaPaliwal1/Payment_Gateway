@@ -1,3 +1,12 @@
+## Project Screenshots
+
+![Initial Page](ScreenShots/initial_page.png)
+![PaypalPage](ScreenShots/Paypal_Page.png)
+![PayMent Page](ScreenShots/Paypal_dashboard.png)
+![Success Page](ScreenShots/success_page.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
