@@ -50,7 +50,7 @@ function App() {
       >
         <h1>Simple Books</h1>
         <span>$40</span>
-        <button type="submit" onClick={() => setShow(true)}>
+        <button style={{padding:"7px 7px ", marginLeft:"6px" }} type="submit" onClick={() => setShow(true)}>
           Buy Now
         </button>
 
@@ -63,6 +63,25 @@ function App() {
               onError={onError}
             />
           ) : null}
+
+          {succes ? ( // If payment is successful
+            <div>
+              <h2 style={{ color: "green ", textAlign: "center" }}>
+                Payment successful 🎉
+              </h2>
+              <p
+                style={{
+                  color: "black ",
+                  textAlign: "center",
+                  fontWeight: "700",
+                }}
+              >
+                Thank you for your purchase
+              </p>
+            </div>
+          ) : (
+            <h2>Payment has not been done</h2>
+          )}
         </div>
       </PayPalScriptProvider>
     </div>
