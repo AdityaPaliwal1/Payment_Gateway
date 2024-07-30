@@ -1,8 +1,12 @@
 ## Project Screenshots
 
+## Initial Page
 ![Initial Page](ScreenShots/Initial_page.png)
+## PayPal Page
 ![PaypalPage](ScreenShots/Paypal_Page.png)
+## Payment Page
 ![PayMent Page](ScreenShots/Paypal_dashboard.png)
+## Success Page
 ![Success Page](ScreenShots/Success_Page.png)
 
 
