@@ -1,9 +1,9 @@
 ## Project Screenshots
 
-![Initial Page](ScreenShots/initial_page.png)
+![Initial Page](ScreenShots/Initial_page.png)
 ![PaypalPage](ScreenShots/Paypal_Page.png)
 ![PayMent Page](ScreenShots/Paypal_dashboard.png)
-![Success Page](ScreenShots/success_page.png)
+![Success Page](ScreenShots/Success_Page.png)
 
 
 
